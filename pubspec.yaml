@@ -46,7 +46,7 @@ dependencies:
   firebase_auth: ^0.16.0
   google_sign_in: ^4.4.4
   image_picker: 0.6.6+1
-  camera: 0.5.8+2
+  camera: ^0.5.8+11
   device_info: ^0.4.2+4
   firebase_messaging: ^6.0.15
   uuid: 2.0.4
